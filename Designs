@@ -110,10 +110,11 @@
         const galleryContainer = document.getElementById("galleryContainer");
 
         const imagePaths = [
-            "images/jewelry1.jpg",  // Add your own image names here
-            "images/jewelry2.jpg",
-            "images/jewelry3.jpg",
-            "images/jewelry4.jpg",
+            "https://raw.githubusercontent.com/JADEISDEAD/Designs/refs/heads/main/portfolio/ftp%20rendered.PNG",  // Add your own image names here
+            "https://raw.githubusercontent.com/JADEISDEAD/Designs/refs/heads/main/portfolio/jetsetter%203.PNG",
+            "https://raw.githubusercontent.com/JADEISDEAD/Designs/refs/heads/main/portfolio/razor%20rendered.PNG",
+            "https://raw.githubusercontent.com/JADEISDEAD/Designs/refs/heads/main/portfolio/star%20link%20rendered.PNG",
+            "https://raw.githubusercontent.com/JADEISDEAD/Designs/refs/heads/main/portfolio/stuff.PNG",
             // Add more images as needed
         ];
 
